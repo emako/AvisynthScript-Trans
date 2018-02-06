@@ -1,0 +1,1 @@
+LoadVirtualDubPlugin("BoxBlur.vdf", "BoxBlur")

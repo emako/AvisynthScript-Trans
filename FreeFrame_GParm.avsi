@@ -1,0 +1,5 @@
+global g_freeframe_peteMetaImage = string(scriptdir())+"PeteMetaImage.dll"
+global g_freeframe_peteKaleidascope = string(scriptdir())+"PeteKaleidascope.dll"
+global g_freeframe_peteRadialBlur = string(scriptdir())+"PeteRadialBlur.dll"
+global g_freeframe_peteSmear = string(scriptdir())+"PeteSmear.dll"
+global g_freeframe_peteSquash = string(scriptdir())+"PeteSquash.dll"
